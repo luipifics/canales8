@@ -481,3 +481,1665 @@ http://154.17.196.171:8080/f4ed8PH56k/RRzpa2accO/236869?play_token=bEkky6ntd9&to
 http://154.17.196.171:8080/f4ed8PH56k/RRzpa2accO/236870?play_token=bEkky6ntd9&token=TEBQAktbRltBAwBWWFUFCgVaV1JVAw0LVwJXAQECXFQEAwBXXQFdWFcVH0RKEkNcB1RuWgUUAwACAQlTBBpHQEQHSjxRV0ZbQQMFVQ9EHRsSUFxWQwwIBAkAAFMLBVIEG0BIClwRXg8WW19KGwNJTQNLX1INaV1XR15SBxAMC0BbDhRBV107BQZaUghdRAsbVxsdEQhFSRALWUQOXhpHV14WSgJMVkZbDUJfChVEUlYTV0VBGBQDEHxvE04QUx1BUgxLClddRltBQ0BEFURYSjlLVEAVRFxTXFJDQAgUVRcbQFUCQGwHDg1ZVgVND15XFRsLEVAUFRBcWF8LRlkXakcLXEECXREND0o=
 #EXTINF:-1 tvg-ID="" tvg-name="LATINO | ZOOMOO" tvg-logo="http://icon.generationxhosting.com/epg/RS/LatinoFlag.png" group-title="Latino TV",LATINO | ZOOMOO
 http://154.17.196.171:8080/f4ed8PH56k/RRzpa2accO/236871?play_token=bEkky6ntd9&token=TEBQAktbRltBAwBWWFUFCgVaV1JVAw0LVwJXAQECXFQEAwBXXQFdWFcVH0RKEkNcB1RuWgUUAwACAQlTBBpHQEQHSjxRV0ZbQQMFVQ9EHRsSUFxWQwwIBAkAAFMLBVIEG0BIClwRXg8WW19KGwNJTQNLX1INaV1XR15SBxAMC0BbDhRBV107BQZaUghdRAsbVxsdEQhFSRALWUQOXhpHV14WSgJMVkZbDUJfChVEUlYTV0VBGBQDEHxvE04QUx1BUgxLClddRltBQ0BEFURYSjlLVEAVRFxTXFJDQAgUVRcbQFUCQGwHDg1ZVgVND15XFRsLEVAUFRBcWF8LRlkXakcLXEECXREND0o=
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMERICA 24
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=389451&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMERICA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25308&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ARGENTINA MAGAZINE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79283&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ARGENTINA PAKAPAKA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79282&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS C5N
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25309&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 10 CORDOBA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=26292&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 13
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79298&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 26 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25305&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 4
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79297&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 4 (ARG)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25313&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANALE 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=32466&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 9
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25312&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ORBE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=856705&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CIUDAD MAGAZINE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=26295&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DEPORTV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79296&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECT TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79295&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL NUEVE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79306&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL TRECE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79305&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ENCUENTRO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79292&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN ARGENTINA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79291&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN EXTRA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926536&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN PREMIUM
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926450&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=436980&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=436982&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN 3 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=436983&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EWTN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=856706&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A&E MUNDO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926589&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A24
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926588&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A3CINE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926587&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AL JAZEERA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926586&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ALLEGRO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926585&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926584&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMERICA 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926583&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMERICA SPORTS SATELITAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926582&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANIMAL PLANET
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926581&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANTENA3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926580&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ARGENTINISIMA SATELITAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926579&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ARIRANG
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926578&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ATRESERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926577&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926576&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BABY TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926575&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BAND INTERNACIONAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926574&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BBC WORLD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926573&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BLOOMBERG
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926572&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 90
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926571&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL DE LA MUSICA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926568&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS PREMIUM
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79300&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL A
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926570&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL DE LA CIUDAD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926569&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL DE LAS ESTRELLAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926567&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL LUZ
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926566&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ORBE 21
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926565&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL RURAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926564&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL SANTA MARÍA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926563&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL UNIVERSIDAD DE LA PLATA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926562&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARTOON NETWORK
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926561&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARTOONITO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926560&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CHACRA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926559&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINE.AR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926558&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINECANAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926557&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926556&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CNN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926555&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COMEDY CENTRAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926553&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CRONICA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926552&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DEUTSCHE WELLE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926550&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIPUTADOS TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926549&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISC TURBO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926548&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926547&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY THEATER
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926546&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY ID
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926545&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY KIDS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926544&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY SCIENCE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926543&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY TLC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926542&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY WORLD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926541&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926540&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY JR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926539&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS E!
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926538&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL GOURMET
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926537&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EUROCHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926535&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EURONEWS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926534&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EVENTOS 1
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926533&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EVENTOS 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926532&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FILM&ARTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926531&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FLOW GAMING
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926530&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FLOW MUSIC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926529&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOOD NETWORK
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926528&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX NEWS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926527&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FRANCE 24
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926526&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926524&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GALICIA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926523&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GLITZ
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926522&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLF CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926521&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS H2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926520&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HGTV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926519&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HISTORY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926518&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HOLA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926517&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HOME AND HEALTH
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926516&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HTV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926515&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS I-SAT
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926514&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS IP
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926513&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS KZO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926512&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LA NACION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926511&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LIFETIME
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926510&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MANIJOMIO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926509&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MAS CHIC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926508&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS METRO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926507&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV 00S
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926506&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926505&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV HITS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926504&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MUCHMUSIC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926503&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NBA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926502&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NET TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926501&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NGC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926500&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK JR.
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926499&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICKELODEON
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926498&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 1 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79290&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79289&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 3 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79288&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICKMUSIC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926497&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NUEVA IMAGEN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926496&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PAKAPAKA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926495&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PARAMOUNT
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926494&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PASIONES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926493&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PX SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926492&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS QUIERO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926491&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RAI
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926490&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926489&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS BAHIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926488&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS CHACO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926487&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS CORRIENTES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926486&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS EL VALLE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926485&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS ENTRE RIOS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926484&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS LA PLATA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926483&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS MAR DEL PLATA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926482&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS MISIONES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926481&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS RAFAELA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926480&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS ROSARIO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926479&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS RÍO CUARTO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926478&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS SALTA-JUJUY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926477&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SOMOS SANTA FE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926476&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SONY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926475&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926474&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926473&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STUDIO UNIVERSAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926472&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SUN CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926471&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SY FY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926470&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TBS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926469&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TCM
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926468&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926467&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELESUR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926466&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926465&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926464&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TOONCAST
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926463&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TRU TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926462&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV 5
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926461&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926460&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UCL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926458&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVERSAL CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926457&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VIAJAR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926456&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VOLVER
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926455&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VORTERIX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926454&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WARNER
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926453&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WOBI
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926452&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INFO FLOW
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926451&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926449&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY XD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926448&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926447&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926446&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926445&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO MUNDI
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926444&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO POP
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926443&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO XTREME
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926442&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO FAMILY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926441&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO SIGNATURE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=926440&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EUROPA EUROPA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=916646&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GARAGE TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79287&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOL TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79304&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MUSICTOP
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25314&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEFE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25307&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMAX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=26290&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELPIN CANAL 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25311&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TLX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79286&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79302&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV PUBLICA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79301&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TYC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79284&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TYC SPORTS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25306&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24 HORAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79319&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 13
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=32462&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDF ESTADIO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79314&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDF HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79313&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDF PREMIUM
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25335&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDO PREMIUM HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79318&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CHILEVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25334&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CNN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25333&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS CHILE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79317&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LA RED HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79311&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MEGA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=26210&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS REC TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79310&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS T13 MOVIL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79309&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELETRAK
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79308&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV CHILE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25337&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25336&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV&extension=ts HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=107879&extension=ts9
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VIA X
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1078800&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ZONA LATINA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1078798&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CABLE NOTICIAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25341&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL CAPITAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25342&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TROPICALES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=632498&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MUSICA URBANA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=632360&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMORDISCO TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1041036&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELE MÚSICA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1041035&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=781782&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ELGARAGE TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=781781&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-FOX SPORTS 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779429&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-FOX SPORTS 1 MX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779430&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-FOX SPORTS 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779431&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-FOX SPORTS 3 MX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779445&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-FOX SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779446&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779447&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779448&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS 1
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779449&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BUENÍSIMA RADIO TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1073932&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL UNO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=145415&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ME GUSTA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558627&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL SEMBRADOR HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558628&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARACOL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25347&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARACOL INTERNATIONAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25346&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NTN 24
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25343&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RCN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25344&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RCN INTERNACIONAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=84453&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RCN NOVELAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=145943&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SENAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79280&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEANTOQUIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25339&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ONDAMBIENTAL TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1148892&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SUNDANCE CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25340&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELECARIBE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60109&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEPACIFICO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79281&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 13 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558618&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL CONGRESO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558620&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COSMOVISION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558621&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL TRO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558619&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL C
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1124176&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SENAL COLOMBIA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558623&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SENAL INSTITUCIONAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558622&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SURAM TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1074468&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELE CAFE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558625&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEISLAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558624&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ZOOM HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558626&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CITY TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25345&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO CINEMA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60110&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60108&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO SPORTS 2 COLOMBIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60106&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO SPORTS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60107&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=412155&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 1 COLOMBIA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75312&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 2 COLOMBIA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75311&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 3 COLOMBIA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75310&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WIN SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25338&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=656328&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WIN SPORTS PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=145416&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS 1
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=656326&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=656327&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMEDELLIN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=741939&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-ESPN2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779427&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO-ESPN3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=779428&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WINSPOETS 1
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=947649&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WINSPOETS 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=947648&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WINSPOETS 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=947666&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SONY TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=855543&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MUNDO MAS TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1074365&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMERICA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25351&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANTARES TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79328&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ATV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25350&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CAPITAL TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25348&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLPERU
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25354&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LATINA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79327&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS REPRETEL 11 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529647&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS REPRETEL 6 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529646&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELETICA 7 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529645&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS REPRETEL 11*
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529644&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS REPRETEL 6
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529642&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELETICA 7
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529641&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEUNO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529640&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FUTV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558638&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TIGO SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529648&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EXTRA TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558637&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MARIA VISION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558636&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO XTREME HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558635&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO POP HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558634&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO MUNDI HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558633&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558632&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV GLOBO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558631&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TRECE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558630&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TD&extension=ts
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1166517&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TD&extension=ts2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1166518&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RAI HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=558629&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TICAVISION CANAL 52
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529638&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 88 STEREO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=529639&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=818898&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=818897&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MAGICO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25352&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MOVISTAR DEPORTES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25355&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NEXT TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79325&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PANAMERICANA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25353&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PERU MAGICO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79324&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PLUS TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79323&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SUR PERU
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79320&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV PERU
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25349&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WILLAX TV FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=789176&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RPP NOTICIAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=1049703&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COLORVISION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25423&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MICROVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25428&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIGITAL 15
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25429&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANTENA LATINA R.D
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79267&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ONDA TV CANAL 10
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79412&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMICRO 5 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25427&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELESISTEMA R.D
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79266&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEUNIVERSO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25426&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VOZ DE MARIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581207&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEVIDA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581206&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELERADIO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581205&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMEDIOS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581204&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEUNION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581203&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581202&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CHANNEL4
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581200&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDN SPORTS MAX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581199&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLARO SPORTS LIBER
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581198&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581197&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELECENTRO 13
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=581196&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ASOMAVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79347&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL UNO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79345&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANELA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79344&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DIRECTV SPORTS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79342&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ECUADOR TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60104&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ECUADOR TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79341&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ECUAVISA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79340&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ECUAVISA FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79339&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GAMAVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79338&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GAMAVISION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79337&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOL TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25431&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOL TV FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79336&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ECDF
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=846743&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS OROMAR TELEVISION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79335&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79334&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RTS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79333&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TC TELEVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79332&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TC TELEVISION FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79331&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TC TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=60105&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEAMAZONAS FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79330&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEVICENTRO TVC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79329&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELE ARUBA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=71076&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMÉRICA TEVÉ MIAMI
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=895157&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A&E
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90826&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A&E HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25524&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90823&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMC HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25560&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANIMAL PLANET HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=145414&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ATV NOTICIAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75288&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25559&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90825&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AYM SPORTS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90306&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZ CORAZON
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75286&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZTECA UNO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79350&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BABY TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79396&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BABY TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90817&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BBC WORLD NEWS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79394&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BLOOMBERG
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79393&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BLOOMBERG HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90828&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BOLIVIA TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=14822&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RED UNO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111596&extension=ts7
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TIGO SPORTS PLUS PY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=554685&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TIGO SPORTS 1 BO  HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=389448&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TIGO SPORTS 2 BO  HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=389449&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TIGO SPORTS 3 BO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=389450&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RTB BOLIVIA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408199&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GIGAVISION BOL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408197&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RTP BOL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408195&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNITEL BOL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408192&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS C9N PY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408186&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GEN TV PY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408185&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NOTICIAS PY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408180&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PARAGUAY TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=408179&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BOOMERANG
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79392&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BOOMERANG HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90818&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CABLE NOTICIAS COLOMBIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=14818&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ANTIGUA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75220&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARACOL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=14781&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARTOON NETWORK
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90796&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARTOON NETWORK HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90288&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CDF CHILE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=24067&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CGTN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90291&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINECANAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90795&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINECANAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90287&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90286&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90794&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CNN CHILE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=23179&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COMEDY CENTRAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90824&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COMEDY CENTRAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25557&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CUBAVISION INT.
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=62037&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CUBAVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=790502&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90813&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA CLASSICO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75289&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75290&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90812&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=83807&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25552&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90780&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY CIVILIZATION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25553&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY HOME & HEALTH
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25551&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY HOME & HEALTH HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90779&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY KIDS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25550&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY KIDS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90778&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY SCIENCE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90290&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY THEATER
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25549&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY THEATER HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90777&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY TURBO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25548&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY TURBO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90776&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY WORLD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25547&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY WORLD HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90775&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25544&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25542&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY JUNIOR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25543&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY JUNIOR HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90774&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY XD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90773&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY XD HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90285&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISTRITO COMEDIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90284&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS E! ENTERTAINMENT
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90772&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS E! ENTERTAINMENT HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90282&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL GOURMET
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25558&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL GOURMET HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90816&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FORO TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75287&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FORO TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79353&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FUTV GRITALO CR HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=153270&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90800&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25521&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FXM
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90802&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FXM HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90801&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GLITZ
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25522&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25538&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN EDGE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90317&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90766&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90765&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GUATEVISION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=75219&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS H2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90316&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS H2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90764&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90786&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25518&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90787&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25520&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO XTREME
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90300&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO FAMILY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90785&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO FAMILY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25519&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO MUNDI
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90301&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90784&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25517&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO POP
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90299&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO SIGNATURE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90783&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO SIGNATURE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25516&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HISTORY 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25545&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HISTORY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25546&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INDIEPLEX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79388&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INVESTIGATION DISCOVERY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90782&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INVESTIGATION DISCOVERY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90781&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LIFETIME
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25556&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LIFETIME HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90815&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MAS CHIC HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90302&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MAYA TV (HN)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79362&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MOVIEMAX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79386&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MOVIEPLEX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79385&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90762&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV 80S
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90307&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV HITS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90315&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV LIVE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90761&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90806&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25535&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90805&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90804&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90822&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25594&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO KIDS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90821&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO KIDS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90820&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO MUNDO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25593&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO WILD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90819&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO WILD HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25592&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=57141&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK JR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90314&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK TOONS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90313&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICKELODEON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25591&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS OUTERMAX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79384&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PARAMOUNT CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25537&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PARAMOUNT CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25534&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RITMOSON
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90298&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SONY CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90312&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90810&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25533&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90799&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25555&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR ACTION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25554&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR ACTION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90771&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CLASSICS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90280&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CLASSICS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90770&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR COMEDY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90278&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR COMEDY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90769&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR FUN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90768&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR FUN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90277&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR LIFE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90767&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR LIFE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90318&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR HITS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90279&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR MOVIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25541&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR SERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25540&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR SERIES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25539&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ COMEDY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79376&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ EAST HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79375&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ EDGE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79374&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE ACTION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79373&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE BLACK HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79372&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE CLASSIC HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79371&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE FAMILY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79370&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79369&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE SUSPENSE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79368&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ ENCORE WESTERN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79367&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ FAMILY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79366&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79365&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ KIDS & FAMILY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79364&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STARZ WEST HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79363&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STUDIO UNIVERSAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90803&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STUDIO UNIVERSAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25532&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SUNDANCE TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90811&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SUNDANCE TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25531&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SYFY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90311&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TBS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90297&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TCM
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90310&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELE REBELDE (CU)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79404&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELECENTRO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=14815&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMETRO (PA)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79402&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO 49 TAMPA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=106002&extension=ts1
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO HOUSTON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25567&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO ATLANTA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25568&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO BOSTON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25573&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO CHICAGO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25576&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO DALLAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25575&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO FRESNO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25578&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO HARTFORD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806851&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO LAS VEGAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25571&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO LOS ANGELES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25577&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO MIAMI HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=721973&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO NEW YORK HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25580&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO 42 NEW ORLEANS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=101077&extension=ts2
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO PHILADELPHIA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25570&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO PHOENIX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25569&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO PUERTO RICO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=149812&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO SAN FRANSISCO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25574&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO WASHINGTON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25572&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEPACIFICO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79390&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELESISTEMA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=14833&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELETICA 7 (CR)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79348&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TLC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90814&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TLC HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25530&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90808&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25529&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90807&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25528&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TOONCAST
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25515&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TOP LATINO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90304&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TRU TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90309&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV CHILE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=23177&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV MAX (PA)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79401&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79354&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVN (PA)
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=79400&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIMAS DALLAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25566&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIMAS LOS ANGELES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25564&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIMAS NEW YORK HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25563&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVERSAL CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25523&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION ATLANTA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25585&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION AUSTIN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90834&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION CHICAGO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90832&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION CLEVELAND HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90831&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION DALLAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25583&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION FORT LAUDERDALE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25584&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION FRESNO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90836&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION HARTFORD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806850&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION HOUSTON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90830&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION LOS ANGELES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90833&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION MIAMI HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=721974&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION 41 NEW YORK HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=722824&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVISION 11 PUERTO RICO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=729773&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 1
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982317&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982320&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982321&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 4
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982322&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 5
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982323&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 6
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982324&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 7
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982325&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 8
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982326&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 9
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982327&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 10
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982318&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN XTRA 11
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=982319&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VH1 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90308&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VTV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25525&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WAPA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=149808&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WAPA 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=149809&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WARNER
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90827&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WARNER HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25527&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WOBI HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90295&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 01
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543974&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 02
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543975&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 03
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543976&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 04
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543977&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 05
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543978&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 06
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543979&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 07
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543980&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 08
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28567&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 09
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543981&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 10
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543982&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 11
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543983&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 12
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543984&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 13
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543985&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 14
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543986&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 15
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28560&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 16
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543987&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 17
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28558&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 18
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28557&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 19
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543988&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 20
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28555&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 21
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28554&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 22
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543989&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 23
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543990&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 24
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543991&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 25
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543992&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 26
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543993&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 27
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28548&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 28
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28547&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 29
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28546&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 30
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28545&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 31
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543994&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 32
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28543&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 33
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28542&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 34
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28541&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 35
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543995&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 36
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=28539&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PPV 37
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=543996&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 6 EL SALVADOR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111712&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111709&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 4
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111710&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 6
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111711&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 12
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111707&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 17
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=557319&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 19
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111708&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MEGAVISION CANAL 19
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111713&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MEGAVISION CANAL 21
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111714&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUTV CANAL 11
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111715&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVES CANAL 10
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111716&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VTV CANAL 35
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111717&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WOW TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=111718&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS 24H SD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552782&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A&E HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552903&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS A3CINE FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552786&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ADN 40
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25332&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ADRENALINA FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552783&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AFIZZIONADOS FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552784&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ALEBRIJE TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806278&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AMC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552971&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANIMAL PLANET HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552905&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANTENA 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552785&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ANTENA 3 INTERNACIONAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552972&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ATRE SERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552968&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ATRES SERIES FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552787&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AXN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552904&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZ CINEMA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552973&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZ CLIC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25329&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZ CORAZON
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25328&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZ MUNDO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25325&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZTECA 7
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25330&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZTECA CORAZON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552975&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS AZTECA UNO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25331&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS B CINE FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552788&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BABY FIRST
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552906&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BANDAMAX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=90349&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BITME FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552790&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS BLOOMBERG TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553078&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CADENA H
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552981&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 113 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553060&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 4
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553056&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 5
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552823&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 5 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25327&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL 9
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552824&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL DE LAS ESTRELLAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25321&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ONCE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25323&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ONCE INT.
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25322&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ONCE INTNL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552956&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CANAL ONCE MX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25324&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CARTOON NETWORK HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552909&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINECANAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552826&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINECANAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552982&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CINEMAX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552910&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS CLAN FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552792&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COMEDY CENTRAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552908&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COCINA TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806272&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS COMO DICE EL DICHO TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806276&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE  PELICULA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552828&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA CLASSICO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553079&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553081&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA PLUS FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552794&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553080&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DE PELICULA SD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552793&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552911&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY CIVILIZATION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552985&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY H&H HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552986&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY KIDS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552829&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY SCIENCE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552987&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY THEATER HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552913&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY TURBO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552912&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISCOVERY WORLD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552832&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552922&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISNEY JR
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552989&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS DISTRITO COMEDIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806271&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS E! ENTERTAINMENT HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552937&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS EL GOURMET HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552935&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552834&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552835&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552836&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ESPN PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552837&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FILM & ART HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552993&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOOD NETWORK
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552994&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FORO TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25326&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 3
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552846&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552847&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FOX SPORTS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552849&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FX HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552919&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FX MOVIES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552925&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS FXM HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552920&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GALA TV 9 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552901&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GALAVISION HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552878&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GLITZ HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552997&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552998&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN EDGE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552999&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN MULTIPLEX
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552799&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS GOLDEN PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553000&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552933&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552934&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO MUNDI
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552854&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552931&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HBO SIGNATURE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552930&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HISTORY 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552855&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HISTORY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552939&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS HLN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553001&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS IMAGEN HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25316&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS INVESTIGATION DISCOVERY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552914&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LA ROSA DE GUADALUPE TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806275&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LAS ESTRELLAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552802&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LAS ESTRELLAS -1 HORA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552803&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LAS ESTRELLAS -2 HORA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552804&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LAS ESTRELLAS 1 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552873&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LAS ESTRELLAS FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552872&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LAS ESTRELLAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552874&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS LIFETIME HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552943&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MAS CHIC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553006&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MAS CHIC HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553047&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MEXIQUENSE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25315&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MILENIO TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552955&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MORBIDO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552898&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553009&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV LIVE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553007&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MTV NEWS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553008&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552881&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS MONTERREY HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552879&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS MULTIMEDIOS PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552897&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552944&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO KIDS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553010&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NAT GEO WILD HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552938&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NATGEO KIDS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552859&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552860&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK 2 HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552945&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICK JR HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552949&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICKELODEON HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552948&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NICKTOONS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553011&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NU9VE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552805&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS NUESTRO CINE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806277&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PARAMOUNT CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552929&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS PASIONES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552950&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RETRO AMOR TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806273&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS ROMANCE TV
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=806274&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS RCG 2
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552959&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SONY CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552951&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SPACE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552899&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR TVE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552806&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STUDIO UNIVERSAL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552947&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CHANNEL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552842&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR HITS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552926&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR ACTION
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552843&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR ACTION MEXICO HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552917&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CINEMA HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552923&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CLASSICS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552924&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552928&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR LIFE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552966&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR SERIES HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552927&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS SYFY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553016&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS STAR SERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552845&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TBS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553017&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TCM HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553042&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEFORMULA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=25317&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEHIT MUSICA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552808&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEHIT MUSICA PLUS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552809&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEHIT PLUS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552902&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552867&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEMUNDO INTERNATIONAL
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552810&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELENOVELAS FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553043&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELERITMO
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552963&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEVISA GUADALAJARA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552811&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEVISA MONTERREY 4 FHD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552795&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TELEVISA MTY
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552876&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TLC HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552940&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TLNOVELAS
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552812&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TLR HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553044&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552942&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TNT SERIES
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553045&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TOONCAST HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553046&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TRU TV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552952&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TUDN
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552870&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV MAS HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552958&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TV5 FRANCIA
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553048&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVC
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552900&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVE
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552814&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS TVE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553049&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS U-BEAT
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=813203&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNICABLE HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552936&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS UNIVERSAL CHANNEL HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552953&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VH1
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553051&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS VTV HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553052&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WARNER HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=552941&extension=ts
+#EXTINF:-1 tvg-logo="https://theinformr.com/images/features/2017/06/large-android-256.jpg", LUIPIFICS WOBI HD
+http://king.viviotv.xyz:80/play/live.php?mac=00:1A:79:C9:08:59&stream=553053&extension=ts
